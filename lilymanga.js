@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         lilymanga remove block message
-// @updateURL    https://github.com/belenguerreroA/UserScripts/raw/master/lilymanga.js
-// @downloadURL  https://github.com/belenguerreroA/UserScripts/raw/master/lilymanga.js
+// @updateURL    https://github.com/belenguerreroA/UserScripts/raw/main/lilymanga.js
+// @downloadURL  https://github.com/belenguerreroA/UserScripts/raw/main/lilymanga.js
 // @namespace    https://github.com/belenguerreroA
 // @version      0.1
 // @description  try to take over the world!
